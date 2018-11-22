@@ -1,0 +1,14 @@
+body{margin: 0}
+.container{
+    width: 1170px ;
+    margin: 0 auto ;
+}
+.header .navbar{background-color: black;
+    color: white;
+    overflow: hidden;}
+    .header .navbar .logo   h2{lexl-transform:upprcase;
+    float: left}
+    .header .navbar ul{list-style: :none;foat;right:}
+    .header .navbar ul li{floa; left;padding: right 40px;}
+    .header .navbar ul li a{text-decoration: none;font-size: 40px;}
+    .header .navbar ul li a:hover{font-size: 26px;color: red}
